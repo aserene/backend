@@ -1,0 +1,14 @@
+[
+    {
+        "name": "What on Earth? A Science Based Trivia Game",
+        "live": "https://project-1-aserene.vercel.app/",
+        "git": "https://github.com/aserene/project-1.git",
+        "image": "https://i.imgur.com/OshOva1.png"
+    },
+    {
+        "name": "Wish Me!",
+        "live": "https://wish-me.onrender.com",
+        "git": "https://github.com/aserene/project2.git",
+        "image": "https://i.imgur.com/FHrrXlA.png"
+    }
+]
